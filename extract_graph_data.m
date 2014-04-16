@@ -1,0 +1,1 @@
+fig_objects = get(get(gca,'Children'))
